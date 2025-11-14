@@ -1,4 +1,3 @@
-Here’s a longer, polished description that includes ML and AI, still concise and resume-friendly:
 
 **Project Description — Fraudster**
 
